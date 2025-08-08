@@ -46,6 +46,7 @@ Welcome to Student Management System
 3. Search Student
 4. Exit
 Enter your choice:
+
 ✅ Requirements
 Java JDK 8 or higher
 
